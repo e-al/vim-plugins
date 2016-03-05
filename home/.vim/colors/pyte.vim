@@ -1,0 +1,1 @@
+/home/e-al/.homesick/repos/vim-config/home/.vim/colors/pyte.vim

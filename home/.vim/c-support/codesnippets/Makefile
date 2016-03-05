@@ -1,0 +1,1 @@
+/home/e-al/.homesick/repos/vim-config/home/.vim/c-support/codesnippets/Makefile

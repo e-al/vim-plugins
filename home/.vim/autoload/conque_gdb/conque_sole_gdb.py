@@ -1,0 +1,1 @@
+/home/e-al/.homesick/repos/vim-config/home/.vim/autoload/conque_gdb/conque_sole_gdb.py
