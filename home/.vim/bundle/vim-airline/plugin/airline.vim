@@ -1,1 +1,0 @@
-/home/e-al/.homesick/repos/vim-config/home/.vim/bundle/vim-airline/plugin/airline.vim

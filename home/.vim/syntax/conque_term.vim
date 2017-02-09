@@ -1,1 +1,0 @@
-/home/e-al/.homesick/repos/vim-config/home/.vim/syntax/conque_term.vim
