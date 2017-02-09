@@ -1,0 +1,1 @@
+/home/e-al/.homesick/repos/vim-plugins/home/.vim/autoload/conque_gdb/gdbinit_no_confirm.gdb
